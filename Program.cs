@@ -16,4 +16,8 @@ namespace PIS_NS
 
         }
     }
+    public class NewClass
+    {
+    }
+
 }
